@@ -1,0 +1,7 @@
+
+Usamos alguns códigos para executar a calculadora :
+
+1) Int:   Para indicar uma  conta inteira
+2) Float: Para indicar uma conta com casa decimal 
+3) Input: Para poder utilizar valores diferentes na calculadora 
+4) Utilização do (If,Elif e Else)

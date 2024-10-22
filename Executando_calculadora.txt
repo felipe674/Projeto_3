@@ -1,0 +1,4 @@
+1 passo: Digitar o primeiro valor. 
+2 passo: Digitar o segundo valor.
+3 passo: Colocar o número da operação a ser executado
+4 passo: Depois de ter feito passo à passo, a calculadora mostrará o resultado. 
